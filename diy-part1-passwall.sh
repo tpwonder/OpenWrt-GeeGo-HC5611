@@ -21,4 +21,4 @@
 git clone -b luci --single-branch https://github.com/xiaorouji/openwrt-passwall package/passwall
 
 # 解决helloworld源码缺失
-wget 'https://github.com/wekingchen/Actions-HC5611-OpenWrt/raw/main/myfiles/passwall.zip' --no-check-certificate && unzip -o passwall.zip && rm -f passwall.zip
+wget 'https://github.com/tpwonder/OpenWrt-GeeGo-HC5611/raw/main/myfiles/passwall.zip' --no-check-certificate && unzip -o passwall.zip && rm -f passwall.zip
